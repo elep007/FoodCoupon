@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346264329379",
+    "firebase_url": "https://foodoffer-99f50.firebaseio.com",
+    "project_id": "foodoffer-99f50",
+    "storage_bucket": "foodoffer-99f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346264329379:android:4edcf706ea73cbc4",
+        "android_client_info": {
+          "package_name": "com.anasberbar.coupon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346264329379-tr2sejbbp3csfouholkv65lpnrl7ak3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anasberbar.coupon",
+            "certificate_hash": "136a7b3a29b19da7d46bcb02955f27e5f151ee0b"
+          }
+        },
+        {
+          "client_id": "346264329379-ppjo6640pncs86t450jnm7544dtn60lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAao1V5CuVfMUNjr3sTw48ftjfdW6iGCxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346264329379-ppjo6640pncs86t450jnm7544dtn60lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346264329379-db1dut52qee9uokd425f3gsaij3kc55b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aution.test.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

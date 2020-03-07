@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#79be48</color>
+    <color name="colorPrimaryDark">#558D2E</color>
+    <color name="colorAccent">#E75D34</color>
+    <color name="colorMainBackground">#EDF4FA</color>
+    <color name="colorText1">#3d4c66</color>
+    <color name="colorText2">#9a9a9c</color>
+    <color name="colorText3">#c0cddb</color>
+
+    <color name="colorTextGold">#f8fbb0</color>
+    <color name="colorTextGreen">#c3fdc1</color>
+    <color name="colorTextDescription">#606163</color>
+
+    <color name="colorBackgroundLittleBlue">#edf0f3</color>
+    <color name="colorButtonOrange">#f48944</color>
+    <color name="colorButtonSave">#B96060</color>
+
+    <color name="colorBackground">#edf0f3</color>
+    <color name="colorSuccessButton">#3C6CCC</color>
+
+</resources>

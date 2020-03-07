@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">WaFFar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">الصفحه الرئيسيه</string>
+    <string name="menu_favorite">قائمتي المفضله</string>
+    <string name="menu_profile">الصفحه الشخصية</string>
+    <string name="menu_review">تاريخ الاستخدام</string>
+    <string name="menu_billing">محفظتي</string>
+    <string name="menu_invite">دعوة الأصدقاء</string>
+    <string name="menu_contact">التواصل معنا</string>
+    <string name="menu_logout">تسجيل الخروج</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- login & forgot password -->
+    <string name="password">رمز المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <!-- sign up -->
+    <string name="sign_up">سجل</string>
+    <string name="name">الأسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="are_u_invite_by_a_friend">هل قام احد اصدقائك بدعوتك؟</string>
+    <string name="promo_code">برومو كود</string>
+    <string name="sign_up_now">سجل الان!</string>
+    <string name="already_have_an_account">هل لديك حساب؟ قم بتسجيل الدخول</string>
+    <!-- home -->
+    <string name="most_used_coupon">الكوبونات الأكثر استخداما</string>
+    <string name="special_offers">عروض خاصة</string>
+    <string name="restaurants_cafes">الكافيهات والمطاغم</string>
+    <!-- profile -->
+    <string name="language">اللغة</string>
+    <string name="free_account">حساب مجاني</string>
+    <string name="premium_account">حساب ذهبي</string>
+    <string name="upgrade_membership">ترقية العوضية</string>
+    <string name="arabic">عربى</string>
+    <string name="english">English</string>
+    <!-- favorite -->
+    <!-- invite -->
+    <string name="refer_your_friends_to_us">ادعو اصدقائك لنا واكسب انت وصديقك كل واحد منك 10 ج.م باستخدام البرومو كود الخاص بك</string>
+    <string name="your_promocode">البرومو كود الخاص بك</string>
+    <!-- wallet -->
+    <string name="balance">رصيدي</string>
+    <string name="all">الجميع</string>
+    <string name="income">الداخل</string>
+    <string name="sent">الخارج</string>
+    <string name="number">رقم</string>
+    <string name="date">التاريخ</string>
+    <string name="transaction">عملية التحويل</string>
+    <string name="amount">القيمة(E£)</string>
+    <string name="deposit">إيداع</string>
+    <!-- history -->
+    <string name="coupon">القسيمة</string>
+    <string name="food_name">اسم الطعام</string>
+    <!-- contact us -->
+    <string name="contact_us">التواصل معنا</string>
+    <string name="you_can_get_in_touch_">تصتطيع التواصل مع خدمة العملاء في أي وقت</string>
+    <string name="phone">الهاتف</string>
+    <!-- restaurants -->
+    <!-- a restaurant -->
+    <!-- food -->
+    <string name="use_coupon">استخدام القسيمة</string>
+    <string name="description">الوصف</string>
+    <string name="what_you_need_to_know">ما تحتاج الى معرفته</string>
+    <string name="timings">التوقيت</string>
+    <string name="am">صباحا</string>
+    <string name="pm">مساء</string>
+    <!-- take coupon -->
+    <string name="enter_your_restaurant_pin">ادخل رمز المطعم</string>
+    <string name="access_coupon">وصول القسيمة</string>
+    <!-- upgrade membership -->
+    <!-- payment -->
+    <!-- phone verify -->
+    <string name="password_would_be_sent_">سيتم ارسال كلمة المرور الى هاتفك</string>
+    <string name="reset">اعادة</string>
+    <string name="verifying_your_number">التأكيد من رقم الهاتف</string>
+    <string name="we_have_sent_a_verification_code_">تم ارسال كود التحقق الى الرقم المسجل. ادخل الرقم هنا</string>
+    <string name="verification_code">كود التحقق</string>
+    <string name="verify">تحقيق</string>
+    <string name="resend_code">أعادة ارسال الكود</string>
+    <string name="wrong_number">الرقم خاطئ؟</string>
+    <string name="we_can_accept_following_payment">  نحن نستقبل طرق الدفع التاليه</string>
+    <string name="current_balance">الرصيد الحالي</string>
+    <string name="charge_your_wallet">اشحن محفظتك</string>
+    <string name="enter_amount_to_charge">ادخل قيمة الشحن</string>
+    <string name="make_payment">دفع</string>
+    <string name="once_you_would_upgrade_to_premium_">   عند شراء العضويه الذهبيه تستطيع استخدام جميع الكوبونات</string>
+    <string name="add_coin">إضافة رصيد</string>
+    <string name="upgrade_monthly">شراء العضويه الشهرية (4.99/شهري)</string>
+    <string name="upgrade_yearly">شراء العضوية السنوية (49.9/سنوي)</string>
+    <string name="you_cant_upgrade_to_monthly_">لا تستطيع شراء العضوية الشهرية الان</string>
+    <string name="you_cant_upgrade_to_yearly_">لا تستطيع شراء العضوية السنوية الان</string>
+    <string name="message">رساله</string>
+    <string name="title">العنوان</string>
+    <string name="content">المحتوى</string>
+    <string name="we_value_friendship_at_exactly_">نحن نقدر الصداقة n\بقيمة 10 جنيهات</string>
+    <string name="newly"> \ التحديثات</string>
+    <string name="save">حفظ</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="current_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الجديده</string>
+    <string name="search">بحث</string>
+    <string name="restaurant">مطعم</string>
+    <string name="enter_valid_phone_number">ادخل رقم هاتف صحيح</string>
+    <string name="please_enter_password_more_">ادخل كلمة مرور مكونه من اكثر من خمس حروف</string>
+    <string name="please_enter_password">الرجاء إدخال كلمة المرور</string>
+    <string name="enter_your_information_">ادخل بياناتك الصحيحه</string>
+    <string name="authenticating">تفعيل...</string>
+    <string name="checking">التحقق...</string>
+    <string name="loading">تحميل...</string>
+    <string name="saving">يتم الحفظ...</string>
+    <string name="you_are_not_registered_">ليس لديك حساب. يرحى التسجيل.</string>
+    <string name="wrong_password_try_again">كلمة مرور خاطئه. حاول مره أخرى.</string>
+    <string name="connection_fail_check_your_connection">لا يمكن الدخول. تحقق من اتصالك بالانترنت.</string>
+    <string name="enter_a_valid_name_at_least_4_characters">ادخل اسم صحيح على الأقل 4 حروف.</string>
+    <string name="your_phone_number_has_already_registered_">رقم هاتفك مسجل لدينا</string>
+    <string name="your_password_sent_been_on_your_phone">تم ارسال كلمة المرور الى الرقم الخاص بك</string>
+    <string name="message_has_not_sent_">لم يتم ارسال الرساله. حاول مره اخرى</string>
+    <string name="cant_get_location_">لا نستطيع التقق من موقعك. تحقق من الاعدادات الخاصه بالموقع</string>
+    <string name="this_food_is_added_in_your_favorites">تم إضافة الطعام الى القائمه الخاصه بك.</string>
+    <string name="coupon_is_taken_successfully">تم استخدام الكوبون بنجاح</string>
+    <string name="wrong_pin_try_again">كود المطعم خاطئ. حاول مره اخرى.</string>
+    <string name="are_you_sure_you_want_to_upgrade_to_monthly_">هل انت متاكد من تجديد العضويه الشهريه الان؟</string>
+    <string name="are_you_sure_you_want_to_upgrade_to_yearly_">هل انت متاكد من تجديد العضويه السنويه الان؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">نعم</string>
+    <string name="cancel">الغاء</string>
+    <string name="successfully_upgraded">تم الترقيه بنجاح.</string>
+    <string name="fail_try_again">فشل. حاول مره أخرى.</string>
+    <string name="charge_wallet">شحن المحفظه</string>
+    <string name="success_charging">تم شحن المحفظه بنجاح</string>
+    <string name="fail_saving">فشل في الحفظ</string>
+    <string name="user_canceled">العميل قام بالالغاء</string>
+    <string name="an_invalid_payment_">An invalid Payment or PayPalConfiguration was submitted. Please see the docs.</string>
+    <string name="verification_code_has_been_sent_on_your_phone">تم ارسال كود التفعيل الى هاتفك</string>
+    <string name="you_are_successfully_registered">تم التسجيل بنجاح</string>
+    <string name="sending">يتم الارسال...</string>
+    <string name="success_sent">تم الارسال</string>
+    <string name="success_remove">تم الحذف</string>
+    <string name="copied_to_clipboard">تم النسخ</string>
+    <string name="upgrade_now">الترقية الان</string>
+    <string name="successfully_save">تم الحفظ</string>
+    <string name="confirm_password_doesnt_match_">كلمة المرور الجديدة لا تطابق كلمة مرور التاكيد</string>
+    <string name="current_password_doent_match">كلمة المرور القديمه غير صحيحه</string>
+    <string name="are_you_sure_">هل أنت متأكد أنك تريد إزالة هذا الطعام في قائمة المفضلة لديك؟</string>
+</resources>

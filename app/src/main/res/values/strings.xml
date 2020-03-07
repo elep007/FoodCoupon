@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">WaFFar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">My Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_review">History</string>
+    <string name="menu_billing">My wallet</string>
+    <string name="menu_invite">Invite Friend</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- login & forgot password -->
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <!-- sign up -->
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="are_u_invite_by_a_friend">Are you invited by a friend?</string>
+    <string name="promo_code">Promo code</string>
+    <string name="sign_up_now">Sign up now!</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <!-- home -->
+    <string name="most_used_coupon">Most used coupon</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="restaurants_cafes"><![CDATA[Restaurants\n & Cafes]]></string>
+    <!-- profile -->
+    <string name="language">Language</string>
+    <string name="free_account">Free account</string>
+    <string name="premium_account">Premium account</string>
+    <string name="upgrade_membership">Upgrade membership</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <!-- favorite -->
+    <!-- invite -->
+    <string name="refer_your_friends_to_us">Refer your friends to us, and they\'ll each get 10E£. We\'ll give you 10E£ for each friend that register app with your promo code</string>
+    <string name="your_promocode">Your promo code</string>
+    <!-- wallet -->
+    <string name="balance">Balance</string>
+    <string name="all">All</string>
+    <string name="income">Income</string>
+    <string name="sent">Sent</string>
+    <string name="number">No</string>
+    <string name="date">Date</string>
+    <string name="transaction">Transaction</string>
+    <string name="amount">Amount(E£)</string>
+    <string name="deposit">Deposit</string>
+    <!-- history -->
+    <string name="coupon">Coupon</string>
+    <string name="food_name">Food Name</string>
+    <!-- contact us -->
+    <string name="contact_us">Contact us</string>
+    <string name="you_can_get_in_touch_">You can get in touch with our customer service any time</string>
+    <string name="phone">Phone</string>
+    <!-- restaurants -->
+    <!-- a restaurant -->
+    <!-- food -->
+    <string name="use_coupon">Use Coupon</string>
+    <string name="description">Description</string>
+    <string name="what_you_need_to_know">What do you need to know?</string>
+    <string name="timings">Timings</string>
+    <string name="am">Am</string>
+    <string name="pm">Pm</string>
+    <!-- take coupon -->
+    <string name="enter_your_restaurant_pin">Enter your restaurant PIN</string>
+    <string name="access_coupon">Access Coupon</string>
+    <!-- upgrade membership -->
+    <!-- payment -->
+    <!-- phone verify -->
+    <string name="password_would_be_sent_">Password would be sent to your phone</string>
+    <string name="reset">Reset</string>
+    <string name="verifying_your_number">Verifying your number!</string>
+    <string name="we_have_sent_a_verification_code_">We have sent a verification code on your number. Enter the code here.</string>
+    <string name="verification_code">Verification code</string>
+    <string name="verify">Verify</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="wrong_number">Wrong number?</string>
+    <string name="we_can_accept_following_payment">  We can accept following payment.</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="charge_your_wallet">Charge your wallet</string>
+    <string name="enter_amount_to_charge">Enter amount to charge</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="once_you_would_upgrade_to_premium_">   Once you would upgrade to premium membership, you could access to all coupons.</string>
+    <string name="add_coin">Add Coin</string>
+    <string name="upgrade_monthly">Upgrade (4.99E£/month)</string>
+    <string name="upgrade_yearly">Upgrade (49.9E£/year)</string>
+    <string name="you_cant_upgrade_to_monthly_">You can\'t upgrade to monthly membership now</string>
+    <string name="you_cant_upgrade_to_yearly_">You can\'t upgrade to yearly membership now</string>
+    <string name="message">Message</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="we_value_friendship_at_exactly_">We value friendship.\n At exactly 10E£</string>
+    <string name="newly">\ newly</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="search">Search</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="enter_valid_phone_number">Enter valid phone number.</string>
+    <string name="please_enter_password_more_">Please enter password more than 5 characters.</string>
+    <string name="please_enter_password">Please enter password.</string>
+    <string name="enter_your_information_">Enter your information correctly.</string>
+    <string name="authenticating">Authenticating...</string>
+    <string name="checking">Checking...</string>
+    <string name="loading">Loading...</string>
+    <string name="saving">Saving...</string>
+    <string name="you_are_not_registered_">You are not registered. Please sign up.</string>
+    <string name="wrong_password_try_again">Wrong password. Try again.</string>
+    <string name="connection_fail_check_your_connection">Fail to connection. Check your connection.</string>
+    <string name="enter_a_valid_name_at_least_4_characters">Enter a valid name at least 4 characters.</string>
+    <string name="your_phone_number_has_already_registered_">Your phone number has already been registered. Try Login</string>
+    <string name="your_password_sent_been_on_your_phone">Your password has been sent on your phone</string>
+    <string name="message_has_not_sent_">Message has not sent. Try resend</string>
+    <string name="cant_get_location_">Can\'t get location. Check your location setting</string>
+    <string name="this_food_is_added_in_your_favorites">This food is added in your favorites.</string>
+    <string name="coupon_is_taken_successfully">This coupon is taken successfully</string>
+    <string name="wrong_pin_try_again">Wrong PIN. Try again.</string>
+    <string name="are_you_sure_you_want_to_upgrade_to_monthly_">Are you sure you want to upgrade to monthly membership now?</string>
+    <string name="are_you_sure_you_want_to_upgrade_to_yearly_">Are you sure you want to upgrade to yearly membership now?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="successfully_upgraded">Successfully upgraded.</string>
+    <string name="fail_try_again">Fail. Try again.</string>
+    <string name="charge_wallet">Charge Wallet</string>
+    <string name="success_charging">Success charging</string>
+    <string name="fail_saving">Fail Saving</string>
+    <string name="user_canceled">The user canceled.</string>
+    <string name="an_invalid_payment_">An invalid Payment or PayPalConfiguration was submitted. Please see the docs.</string>
+    <string name="verification_code_has_been_sent_on_your_phone">Verification code has been sent on your phone.</string>
+    <string name="you_are_successfully_registered">You are successfully registered.</string>
+    <string name="sending">Sending...</string>
+    <string name="success_sent">Successfully sent.</string>
+    <string name="success_remove">Successfully removed.</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="upgrade_now">Upgrade now</string>
+    <string name="successfully_save">Successfully saved</string>
+    <string name="confirm_password_doesnt_match_">Confirm password doesn\'t match new one</string>
+    <string name="current_password_doent_match">Current password doesn\'t match</string>
+    <string name="are_you_sure_">Are you sure you want to remove this food on favorite list?</string>
+</resources>
